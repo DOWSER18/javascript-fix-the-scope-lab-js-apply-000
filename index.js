@@ -6,7 +6,7 @@ function myAnimal() {
 
 function yourAnimal() {
   if (animal==="dog") {
-    return youranimal ("cat")
+    return animal =("cat")
   }else {
   return animal
 }
